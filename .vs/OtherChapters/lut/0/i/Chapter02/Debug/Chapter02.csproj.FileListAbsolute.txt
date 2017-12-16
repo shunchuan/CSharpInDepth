@@ -1,0 +1,6 @@
+H:\ProgramLearning\C#Program\C#In Depth\C# in Depth\OtherChapters\.vs\OtherChapters\lut\0\b\Chapter02\bin\Debug\Chapter02.exe
+H:\ProgramLearning\C#Program\C#In Depth\C# in Depth\OtherChapters\.vs\OtherChapters\lut\0\b\Chapter02\bin\Debug\Chapter02.pdb
+H:\ProgramLearning\C#Program\C#In Depth\C# in Depth\OtherChapters\.vs\OtherChapters\lut\0\i\Chapter02\Debug\Chapter02.csprojResolveAssemblyReference.cache
+H:\ProgramLearning\C#Program\C#In Depth\C# in Depth\OtherChapters\.vs\OtherChapters\lut\0\i\Chapter02\Debug\Chapter02.csproj.CoreCompileInputs.cache
+H:\ProgramLearning\C#Program\C#In Depth\C# in Depth\OtherChapters\.vs\OtherChapters\lut\0\i\Chapter02\Debug\Chapter02.exe
+H:\ProgramLearning\C#Program\C#In Depth\C# in Depth\OtherChapters\.vs\OtherChapters\lut\0\i\Chapter02\Debug\Chapter02.pdb

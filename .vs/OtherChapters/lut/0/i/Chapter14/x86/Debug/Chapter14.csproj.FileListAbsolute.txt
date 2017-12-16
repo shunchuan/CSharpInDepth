@@ -1,0 +1,2 @@
+H:\ProgramLearning\C#Program\C#In Depth\C# in Depth\OtherChapters\.vs\OtherChapters\lut\0\i\Chapter14\x86\Debug\Chapter14.csprojResolveAssemblyReference.cache
+H:\ProgramLearning\C#Program\C#In Depth\C# in Depth\OtherChapters\.vs\OtherChapters\lut\0\i\Chapter14\x86\Debug\Chapter14.csproj.CoreCompileInputs.cache

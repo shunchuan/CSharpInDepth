@@ -1,0 +1,6 @@
+G:\ProgramLearning\C#Program\C#In Depth\C# in Depth\OtherChapters\Chapter02\bin\Debug\Chapter02.exe
+G:\ProgramLearning\C#Program\C#In Depth\C# in Depth\OtherChapters\Chapter02\bin\Debug\Chapter02.pdb
+G:\ProgramLearning\C#Program\C#In Depth\C# in Depth\OtherChapters\Chapter02\bin\Debug\MiscUtil.dll
+G:\ProgramLearning\C#Program\C#In Depth\C# in Depth\OtherChapters\Chapter02\obj\Debug\Chapter02.csprojResolveAssemblyReference.cache
+G:\ProgramLearning\C#Program\C#In Depth\C# in Depth\OtherChapters\Chapter02\obj\Debug\Chapter02.exe
+G:\ProgramLearning\C#Program\C#In Depth\C# in Depth\OtherChapters\Chapter02\obj\Debug\Chapter02.pdb

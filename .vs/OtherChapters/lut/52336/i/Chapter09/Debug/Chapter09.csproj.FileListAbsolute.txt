@@ -1,0 +1,6 @@
+H:\ProgramLearning\C#Program\C#In Depth\C# in Depth\OtherChapters\.vs\OtherChapters\lut\0\b\Chapter09\bin\Debug\Chapter09.exe.config
+H:\ProgramLearning\C#Program\C#In Depth\C# in Depth\OtherChapters\.vs\OtherChapters\lut\0\b\Chapter09\bin\Debug\Chapter09.exe
+H:\ProgramLearning\C#Program\C#In Depth\C# in Depth\OtherChapters\.vs\OtherChapters\lut\0\b\Chapter09\bin\Debug\Chapter09.pdb
+H:\ProgramLearning\C#Program\C#In Depth\C# in Depth\OtherChapters\.vs\OtherChapters\lut\0\i\Chapter09\Debug\Chapter09.csproj.CoreCompileInputs.cache
+H:\ProgramLearning\C#Program\C#In Depth\C# in Depth\OtherChapters\.vs\OtherChapters\lut\0\i\Chapter09\Debug\Chapter09.exe
+H:\ProgramLearning\C#Program\C#In Depth\C# in Depth\OtherChapters\.vs\OtherChapters\lut\0\i\Chapter09\Debug\Chapter09.pdb

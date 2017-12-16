@@ -1,0 +1,6 @@
+H:\ProgramLearning\C#Program\C#In Depth\C# in Depth\OtherChapters\.vs\OtherChapters\lut\0\b\AppendixB\bin\Debug\AppendixB.exe.config
+H:\ProgramLearning\C#Program\C#In Depth\C# in Depth\OtherChapters\.vs\OtherChapters\lut\0\b\AppendixB\bin\Debug\AppendixB.exe
+H:\ProgramLearning\C#Program\C#In Depth\C# in Depth\OtherChapters\.vs\OtherChapters\lut\0\b\AppendixB\bin\Debug\AppendixB.pdb
+H:\ProgramLearning\C#Program\C#In Depth\C# in Depth\OtherChapters\.vs\OtherChapters\lut\0\i\AppendixB\x86\Debug\AppendixB.csproj.CoreCompileInputs.cache
+H:\ProgramLearning\C#Program\C#In Depth\C# in Depth\OtherChapters\.vs\OtherChapters\lut\0\i\AppendixB\x86\Debug\AppendixB.exe
+H:\ProgramLearning\C#Program\C#In Depth\C# in Depth\OtherChapters\.vs\OtherChapters\lut\0\i\AppendixB\x86\Debug\AppendixB.pdb
